@@ -1,10 +1,3 @@
-/*
-===================================== 
-Assignment 6 Submission 
-Name: NAGALLA DEVISRI PRASAD
-Roll number: 22CS10045 
-=====================================
-*/
 
 #include <stdio.h>
 #include <stdlib.h>
